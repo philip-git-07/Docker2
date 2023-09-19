@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>MySpringBootApplication</name>
-	<description>Demo project for Docker Assignment - Mathew Joseph</description>
+	<description>Ansible based Springboot Application</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
